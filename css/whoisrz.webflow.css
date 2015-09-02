@@ -2078,7 +2078,7 @@ p {
   position: fixed;
   left: 15px;
   top: 45.5%;
-  z-index: 1;
+  z-index: 1000;
 }
 html.w-mod-js *[data-ix="hide-nav-on-load"] {
   opacity: 0;
