@@ -2241,6 +2241,9 @@ p {
   font-style: italic;
   text-align: center;
 }
+.sarahlink {
+  color: #30507f;
+}
 html.w-mod-js *[data-ix="hide-nav-on-load"] {
   opacity: 0;
   width: 0px;
